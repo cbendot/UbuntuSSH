@@ -1,1 +1,2 @@
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/648bd02ef80d47609f5eb840485c6382)](https://app.codacy.com/gh/cbendot/UbuntuSSH?utm_source=github.com&utm_medium=referral&utm_content=cbendot/UbuntuSSH&utm_campaign=Badge_Grade_Settings)
 [![UbuntuSSH](https://github.com/cbendot/UbuntuSSH/actions/workflows/UbuntuSSH.yml/badge.svg?branch=main)](https://github.com/cbendot/UbuntuSSH/actions/workflows/UbuntuSSH.yml)
